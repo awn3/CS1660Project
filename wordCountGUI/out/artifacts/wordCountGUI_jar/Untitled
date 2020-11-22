@@ -1,0 +1,3 @@
+FROM java8
+COPY ./
+CMD java -jar 
